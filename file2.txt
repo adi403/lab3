@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello abhinanadan
 
+=======
+hi kc
+>>>>>>> branch4
